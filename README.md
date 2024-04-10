@@ -8,3 +8,6 @@ Heavy Work In Progress Pokemon TCG data scraper
 requests: Used for making HTTP requests to web servers.
 pandas: Provides data structures and tools for data analysis and manipulation.
 beautifulsoup4 (bs4): A library for parsing HTML and XML documents.
+
+## UPDATES AND FUTURE
+WORKING ON FULLY IMPLEMENTING SCRAPER NOT RELIANT ON API, WHILE STILL ADHERING TO WEBSITES TERMS OF SERVICE.  EXPAND CURRENT CARD SELECTION TO ALLOW FOR COMPARISONS.
